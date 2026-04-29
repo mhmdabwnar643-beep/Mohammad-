@@ -1,0 +1,6 @@
+{
+  "name": "Amadeus GDS",
+  "description": "Professional flight booking training platform (GDS) with a command-line terminal, visual search, and AI-powered assistant for travel agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
